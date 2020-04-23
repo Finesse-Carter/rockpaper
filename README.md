@@ -11,11 +11,8 @@
 - HTML5
 - CSS3
 - Javascript
-- Node.js
-- Express
-- Mongo DB
 ​
 ## Installation
 ​
 1. Clone repo
-2. run `npm install`
+
