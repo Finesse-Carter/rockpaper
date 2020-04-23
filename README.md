@@ -1,6 +1,6 @@
-# rockpaper
+# Rock,Paper,Scissors gamee
 
-
+## https://fervent-jennings-1dd95a.netlify.app/
 
 ### This is a game I built.
 <img src="rock,paper,scissors\rock.png">
